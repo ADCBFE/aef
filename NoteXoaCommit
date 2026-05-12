@@ -1,0 +1,157 @@
+git reset --hard HEAD~1
+
+    {
+      "name": "Monster TV",
+      "versionNameNew": "3.2.0",
+      "categoty": "Truyền hình trực tuyến",
+      "rated": "5",
+      "logo": "https://gitlab.com/3875CE53/storeapp/-/raw/main/MonsterTV/MonsterTV.png",
+      "packageName": "com.quang.monstertv",
+      "linkDownload": "https://gitlab.com/3875CE53/storeapp/-/raw/main/MonsterTV/Monstertv-tv-3.2.0.apk",
+      "note": "Monster TV giúp bạn xem hoàn toàn miễn phí với: Gần 200 kênh trong nước và quốc tế với chất lượng Full HD: siêu nhanh, siêu nét, siêu mượt, siêu ổn định\n Thể thao 24h, thể thao trong nước và quốc tế\n+ Kho phim ảnh lên tới hàng ngàn bộ phim hay và hấp dẫn, có hỗ trợ sub tiếng Việt\n+ Xem lại các chương trình tivi các kênh từ VTV1 đến VTV6 trong 2 ngày gần nhất (hôm nay và hôm qua)",
+      "preview": "https://gitlab.com/3875CE53/storeapp/-/raw/main/MonsterTV/anh.jpg"
+    },
+
+    {
+      "name": "Phim Ne",
+      "versionNameNew": "4.2.1",
+      "categoty": "Phim truyện",
+      "rated": "5",
+      "logo": "https://gitlab.com/3875CE53/storeapp/-/raw/main/PhimNe/logo.png",
+      "packageName": "com.jakendis.streambox",
+      "linkDownload": "https://gitlab.com/3875CE53/storeapp/-/raw/main/PhimNe/phimne421.apk",
+      "note": "Xem Phim Ne UHD mượt như lụa\nPhim Ne mang cả rạp phim tới nhà của bạn. Kho phim đồ sộ, không quảng cáo, UI thân thiện.\n\nCần hỗ trợ, báo lỗi tại đây: t.me/pnhotro",
+      "preview": "https://gitlab.com/3875CE53/storeapp/-/raw/main/PhimNe/anh1.png,https://gitlab.com/3875CE53/storeapp/-/raw/main/PhimNe/anh2.png,https://gitlab.com/3875CE53/storeapp/-/raw/main/PhimNe/anh3.png"
+    },
+    {
+      "name": "Phim 4K",
+      "versionNameNew": "Luôn mới nhất",
+      "rated": "5",
+      "categoty": "Phim truyện",
+      "logo": "https://gitlab.com/3875CE53/storeapp/-/raw/main/Phim4K/banner.png",
+      "packageName": "com.oxootv.spagreen",
+      "linkDownload": "https://phim4k.xyz/downloads/androidtv",
+      "note": "Xem phim 4K UHD mượt như lụa\nPhim4K mang cả rạp phim tới nhà của bạn. Kho phim đồ sộ, không quảng cáo, UI thân thiện.\nTrang chủ: https://phim4k.xyz",
+      "preview": "https://gitlab.com/3875CE53/storeapp/-/raw/main/Phim4K/anh.jpg"
+    },
+    {
+     "name": "Vua Giải trí",
+      "versionNameNew": "Luôn mới nhất",
+      "rated": "5",
+      "categoty": "Phim truyện",
+      "logo": "https://gitlab.com/3875CE53/storeapp/-/raw/main/VuaGiaiTri/logo.png",
+      "packageName": "com.vuagiaitri",
+      "linkDownload": "https://github.com/manhnv699/vuagiaitri/releases/download/tv-app-armeabi-v7a/tv-app-armeabi-v7a.apk",
+      "note": "Chào mừng bạn đến với **App Vua Giải Trí** – nơi bạn có thể thưởng thức hàng loạt nội dung giải trí đỉnh cao! Với **những bộ phim bom tấn**, **phim kinh điển**, những trận đấu bóng đá \uD83C\uDF0D⚽, giải thể thao \uD83C\uDFC6 và các kênh truyền hình sắc nét \uD83D\uDCE1, App Vua Giải Trí chính là lựa chọn lý tưởng để bạn thư giãn mọi lúc, mọi nơi.\nNguồn: https://github.com/manhnv699/vuagiaitri/releases/download/tv-app-armeabi-v7a/tv-app-armeabi-v7a.apk\nTelegram: https://t.me/vuagiaitriapp\nFanpage: https://www.facebook.com/profile.php?id=61565899498203",
+      "preview": "https://gitlab.com/3875CE53/storeapp/-/raw/main/VuaGiaiTri/anh1.jpg,https://gitlab.com/3875CE53/storeapp/-/raw/main/VuaGiaiTri/anh2.jpg"
+     },
+            {
+              "name": "Rổ Phim",
+              "versionNameNew": "1.0.3",
+              "rated": "4",
+              "categoty": "Phim truyện",
+              "logo": "https://gitlab.com/3875CE53/storeapp/-/raw/main/RoPhim/logo.png",
+              "packageName": "com.tv.rophimm",
+              "linkDownload": "https://image.chillcdn.top/file/cm9waGltbQ/app/update/rophimtv-1.0.3.apk",
+              "note": "Rổ Phim – Trang xem phim online chất lượng cao miễn phí Vietsub, thuyết minh, lồng tiếng full HD. Kho phim mới khổng lồ, phim chiếu rạp, phim bộ, phim lẻ từ nhiều quốc gia như Việt Nam, Hàn Quốc, Trung Quốc, Thái Lan, Nhật Bản, Âu Mỹ…\n Nguồn: https://rophimm.info/app",
+              "preview": "https://gitlab.com/3875CE53/storeapp/-/raw/main/RoPhim/anh.png"
+            },
+            {
+              "name": "Phim 30",
+              "versionNameNew": "1.0.37",
+              "rated": "4",
+              "categoty": "Phim truyện",
+              "logo": "https://gitlab.com/3875CE53/storeapp/-/raw/main/Phim30/logo.png",
+              "packageName": "me.phim30.application_v3",
+              "linkDownload": "https://storage.phim30.me/update/android-tv-v3/phim30-androidtv-v1.0.37-release.apk",
+              "note": "Phim30 – Trang xem phim online chất lượng cao miễn phí Vietsub, thuyết minh, lồng tiếng full HD. Kho phim mới khổng lồ, phim chiếu rạp, phim bộ, phim lẻ từ nhiều quốc gia như Việt Nam, Hàn Quốc, Trung Quốc, Thái Lan, Nhật Bản, Âu Mỹ…\n Nguồn: https://30phim.online/tai-app ",
+              "preview": "https://gitlab.com/3875CE53/storeapp/-/raw/main/Phim30/anh.png"
+            },
+            {
+              "name": "PhimViVu",
+              "versionNameNew": "Luôn mới nhất",
+              "categoty": "Phim truyện",
+              "rated": "4",
+              "logo": "https://gitlab.com/3875CE53/storeapp/-/raw/main/PhimViVu/logo.png",
+              "packageName": "com.mvotv",
+              "linkDownload": "https://phimvivu.net/tv",
+              "note": "Một ứng dụng xem phim truyện mới được.",
+              "preview": "https://gitlab.com/3875CE53/storeapp/-/raw/main/PhimViVu/anh.png"
+            },
+            {
+              "name": "NVC Movie",
+              "versionNameNew": "2.6.19",
+              "rated": "4",
+              "categoty": "Phim truyện",
+              "logo": "https://gitlab.com/3875CE53/storeapp/-/raw/main/NVCMovie/logo.png",
+              "packageName": "com.nvc.movieapp",
+              "linkDownload": "https://gitlab.com/3875CE53/storeapp/-/raw/main/NVCMovie/NVC_Movie_TV_v2.6.19.apk",
+              "note": "Một ứng dụng xem phim truyện mới được phát triển.\nNguồn: https://drive.google.com/drive/folders/1S46J42SfKw5YBuPNZcEGhZB39SqvLoFR",
+              "preview": "https://gitlab.com/3875CE53/storeapp/-/raw/main/NVCMovie/anh.png"
+            },
+            {
+              "name": "CloudStream",
+              "versionNameNew": "4.7.0",
+              "rated": "5",
+              "categoty": "Phim truyện",
+              "logo": "https://gitlab.com/3875CE53/storeapp/-/raw/main/CloudStream/logo.png",
+              "packageName": "com.lagradost.cloudstream3",
+              "linkDownload": "https://github.com/recloudstream/cloudstream/releases/download/v4.7.0/4.7.0.apk",
+              "note": "CloudStream là ứng dụng tiên tiến tích hợp nhiều dịch vụ phát trực tuyến vào một nền tảng gắn kết. Cho dù bạn là người mê phim, người xem phim truyền hình dài tập hay người đam mê âm nhạc, CloudStream đều đáp ứng mọi nhu cầu giải trí của bạn.\nNguồn Kho : rentry.org/cs3vn \n Nguồn tải luôn mới nhất https://github.com/recloudstream/cloudstream/releases",
+              "preview": "https://gitlab.com/3875CE53/storeapp/-/raw/main/CloudStream/anh.jpg"
+            },
+                {
+                  "name": "Cò Tivi",
+                  "versionNameNew": "1.1.3",
+                  "categoty": "Truyền hình trực tuyến",
+                  "rated": "5",
+                  "logo": "https://gitlab.com/3875CE53/storeapp/-/raw/main/CoTivi/logo.png",
+                  "packageName": "com.cofvuong.tivi",
+                  "linkDownload": "https://gitlab.com/3875CE53/storeapp/-/raw/main/CoTivi/CoTiVi_v1.1.3.apk",
+                  "note": "Cò TiVi Trải nghiệm Tivi, Bóng đá miễn phí Giải trí trong lòng bàn tay!\nXem gần 200 kênh Truyền hình trong nước và quốc tế\nTrực tiếp bóng đá Ngoại Hạng Anh, UEFA Champions League, LaLiga, Ligue 1, Bundesliga, V League,...\nNguồn: https://go.aftvnews.com/5442478",
+                  "preview": "https://gitlab.com/3875CE53/storeapp/-/raw/main/CoTivi/anh.png,https://gitlab.com/3875CE53/storeapp/-/raw/main/CoTivi/anh1.png"
+                },
+             {
+                      "name": "Get Out",
+                      "versionNameNew": "1.0.7",
+                      "rated": "4",
+                      "categoty": "Thể thao",
+                      "logo": "https://gitlab.com/3875CE53/storeapp/-/raw/main/GetOut/logo.png",
+                      "packageName": "com.linor.vn.getout",
+                      "linkDownload": "https://gitlab.com/3875CE53/storeapp/-/raw/main/GetOut/getout_v1.0.7.apk",
+                      "note": "Xem thể thao : Bóng đá, Bóng rổ, Bóng chuyền, Bia, Tennis... \nNguồn : bom.so/getout , AFTVnews : 9609311 \n Chịu ông nào admin họ cho dùng free rồi còn đi mod kiếm tiền. \n  -Thông báo:\n *Thời gian vừa qua, một số nhà bán hàng đã tải về, chỉnh sửa app, thay đổi tên app, thay đổi ảnh, thay đổi mã qr, stk ủng hộ quỹ trẻ em... Điều này làm cho mục đích ban đầu của dự án GetOut đã không còn ý nghĩa.\n *Vì vậy, từ ngày 06/04/2026, dự án này sẽ không còn được bảo trì và phát triển nữa.\n *Ứng dụng GetOut vẫn hoạt động cho đến khi tất cả các nguồn bị lỗi\n *Gửi lời tri ân sâu sắc đến những tấm lòng hảo tâm dành cho các em nhỏ!!!",
+                      "preview": "https://gitlab.com/3875CE53/storeapp/-/raw/main/GetOut/anh.png"
+                  },
+                   {
+                          "name": "DL Tivi",
+                          "versionNameNew": "16.0.2",
+                          "categoty": "Truyền hình trực tuyến",
+                          "rated": "5",
+                          "logo": "https://gitlab.com/3875CE53/storeapp/-/raw/main/DLTivi/banner_DLTivi.png",
+                          "packageName": "com.dinhlap.tivi",
+                          "linkDownload": "https://gitlab.com/3875CE53/storeapp/-/raw/main/DLTivi/DLTivi_v16.0.2.apk",
+                          "note": "+ Sửa lỗi nguồn phát video một số list.Sửa lỗi nguồn phát video từ HomeTV khi nguồn bị thay đổi. DL Tivi là ứng dụng xem video, truyền hình yêu cầu sử dụng mạng dàng cho cả điện thoạt và TV. Tìm kiếm bằng giọng nói, Lưu lại hai đường link danh sách kênh, Tự động vào ngay kênh phát gần nhất lần trước.\n+ Giao diện dễ dùng : nhấn phím sang Trái hoặc phím sang Phải hiện danh sách  kênh, nhấn phím OK để mở Controller, Thay đổi tỉ lệ màn hình cho phù hợp, Điều khiển kênh bằng các phím số, Tính năng khởi động cùng thiết bị có thể không hoạt động trên thiết bị xiaomi.\nNhà phát triển: Đình Lập - Liên hệ: https://www.facebook.com/DinhlapD.Lp",
+                          "preview": "https://gitlab.com/3875CE53/storeapp/-/raw/main/DLTivi/anh.png"
+         },
+        {
+          "name": "VMT (Vừa Mới Thấy)",
+          "versionNameNew": "3.0.0.0",
+          "rated": "4",
+          "categoty": "Thể thao",
+          "logo": "https://gitlab.com/3875CE53/storeapp/-/raw/main/VMT/logo.png",
+          "packageName": "com.truyenhinh.vmt",
+          "linkDownload": "https://gitlab.com/3875CE53/storeapp/-/raw/main/VMT/vmtmod2_v3.0.0.0.apk",
+          "note": "Là ứng dụng Televizo(IPTV) ai đó mod lại logo, icon, thêm nguồn xem truyền hình và thể thao.",
+          "preview": "https://gitlab.com/3875CE53/storeapp/-/raw/main/VMT/anh.png"
+        },
+        {
+          "name": "SportzX",
+          "versionNameNew": "1.9",
+          "rated": "2",
+          "categoty": "Thể thao",
+          "logo": "https://gitlab.com/3875CE53/storeapp/-/raw/main/SportsTV/logoS.png",
+          "packageName": "com.sportzx.live",
+          "linkDownload": "https://gitlab.com/3875CE53/storeapp/-/raw/main/SportsTV/SportzX_v1.9.apk",
+          "note": "Tổng hợp thể thao nước ngoài.",
+          "preview": "https://gitlab.com/3875CE53/storeapp/-/raw/main/SportsTV/anhS.png"
+        },

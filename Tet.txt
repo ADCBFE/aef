@@ -1,0 +1,11 @@
+    ,
+      {
+        "name": "Chúc mừng năm mới !",
+        "versionNameNew": "2026",
+        "categoty": "Tiện ích",
+        "logo": "https://gitlab.com/dinhgaymuc/mi-store/-/raw/main/Tet/Tet.png",
+        "packageName": "com.dinhlap.tet",
+        "linkDownload": "https://gitlab.com/dinhgaymuc/mi-store/-/raw/main/Tet/Tet_v2026.apk",
+        "note": "Chúc mừng năm mới !",
+        "preview": "https://gitlab.com/dinhgaymuc/mi-store/-/raw/main/Tet/Tet.png"
+      }
