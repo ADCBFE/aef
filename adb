@@ -1,7 +1,7 @@
 {
   "dlStore": {
     "nameApp": "DL Store",
-    "versionNameNew": "16.0.3",
+    "versionNameNew": "16.0.4",
     "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/app/DLStore_v16.0.3.apk",
     "checkDate": "3",
     "linkBecause": "Một số thành phần vì lợi ích cá nhân bán sản phẩm mod.\nLên mạng lại nói : 2026 rồi vẫn dùng DL ak  \uD83E\uDD29\n Vui lòng mai vào lại là được !",
