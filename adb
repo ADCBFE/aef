@@ -890,28 +890,6 @@
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/RemoteADB/RemoteADB.png"
     },
     {
-      "name": "Bàn phím Việt Nam",
-      "versionNameNew": "1.0",
-      "rated": "4",
-      "categoty": "Bàn phím",
-      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/BanPhimVietNam/BanPhimVN.png",
-      "packageName": "com.dinhlap.keyboard.vn",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/BanPhimVietNam/BanPhimVN.apk",
-      "note": "Bàn phím Android TV Việt Nam.\nHỗ trợ Android TV, TV Box dùng điều khiển, ngôn ngữ Việt\nKích thước ứng dụng chỉ có 250kb siêu nhẹ, siêu mượt.",
-      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/BanPhimVietNam/BanPhimVN.png"
-    },
-    {
-      "name": "Bàn phím Android TV",
-      "versionNameNew": "1.4.3.190711",
-      "rated": "3",
-      "categoty": "Bàn phím",
-      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/KeyboardTV/KeyboardTV.png",
-      "packageName": "com.ndcsolution.androidtv.leankeykeyboard",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/KeyboardTV/KeyboardTV_1.4.3.190711_modVN.apk",
-      "note": "Đã mod tiếng việt\nBàn phím Android TV, TV Box hỗ trợ dùng điều khiển hoặc chuột bay\nBàn phím Android TV, TV Box hỗ trợ dùng điều khiển hoặc chuột bay\nTính năng, đặc điểm\n- Hỗ trợ màn hình TV, android TV Box\n- Hỗ trợ đầy đủ cho hộp điều khiển từ xa\n- chuyển đổi ngôn ngữ với báo chí dài trên thanh không gian bàn phím hoặc phím menu\n- phím hỗ trợ thêm (ví dụ phím menu)\nKeyboard has been tested on Xiaomi Mi Box, Amazon Fire TV, LETV Smart TV, Nexus Player..",
-      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/KeyboardTV/anh.jpg"
-    },
-    {
       "name": "Weather Weawow°",
       "versionNameNew": "6.1.7",
       "rated": "5",
