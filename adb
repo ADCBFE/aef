@@ -22,12 +22,12 @@
   "apps": [
     {
       "name": "VTVGo TV",
-      "versionNameNew": "11.12.30",
+      "versionNameNew": "12.5.28",
       "categoty": "Truyền hình trực tuyến",
       "rated": "4",
       "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVGoTV/Vtv_go_banner.png",
       "packageName": "vn.vtv.vtvgotv",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVGoTV/VTVgoTV_v11.12.30_DL.apk",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVGoTV/VTVgoTV_v12.5.28_DL.apk",
       "note": "VTVgo là hệ thống xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam cho phép khán giả VTV xem trực tiếp, xem lại, xem theo chủ đề mọi chương trình truyền hình cũng như thưởng thức kho video độc quyền lớn nhất Việt Nam trên nhiều lĩnh vực.\nCác tính năng chính:\n1. Kênh TV\n• Xem trực tuyến các kênh truyền hình Việt Nam: VTV1, VTV2, VTV3, VTV4, VTV5, VTV6, VTV7, VTV8, VTV9, VTV5 Tây Nguyên và VTV5 Tây Nam Bộ.",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVGoTV/anh.png"
     },
@@ -162,6 +162,17 @@
       "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/iMedia/iMedia-25.04.06.B_mod.apk",
       "note": "Ứng dụng iMedia là một ứng dụng miễn phí trên nền tảng Android TV, cho phép người dùng xem truyền hình và phát thanh phổ thông mà không cần phải trả bất kỳ khoản phí nào. Ứng dụng cũng không có quảng cáo, mang lại cho người dùng một trải nghiệm sử dụng không bị gián đoạn.iMedia có giao diện đơn giản và dễ sử dụng, với các tính năng như chọn kênh truyền hình hoặc phát thanh yêu thích của bạn, tìm kiếm nhanh chóng",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/iMedia/anh.jpg"
+    },
+    {
+      "name": "VTVPrime",
+      "versionNameNew": "1.11.0",
+      "categoty": "Truyền hình trực tuyến",
+      "rated": "4",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVPrime/banner.png",
+      "packageName": "vn.vtvcab.vtvprime.atv",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVPrime/VTVprime_v1.11.0.apk",
+      "note": "VTVgo là hệ thống xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam cho phép khán giả VTV xem trực tiếp, xem lại, xem theo chủ đề mọi chương trình truyền hình cũng như thưởng thức kho video độc quyền lớn nhất Việt Nam trên nhiều lĩnh vực.\nCác tính năng chính:\n1. Kênh TV\n• Xem trực tuyến các kênh truyền hình Việt Nam: VTV1, VTV2, VTV3, VTV4, VTV5, VTV6, VTV7, VTV8, VTV9, VTV5 Tây Nguyên và VTV5 Tây Nam Bộ.",
+      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVPrime/anh1.png,https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVPrime/anh2.png"
     },
     {
       "name": "QuanTV",
