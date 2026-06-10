@@ -3,7 +3,7 @@
     "nameApp": "DL Store",
     "versionNameNew": "16.0.4",
     "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/app/DLStore_v16.0.3.apk",
-    "manufacturer": "sony,xiaomi",
+    "manufacturer": "sony,xiaomi,oneplus",
     "checkDate": "3",
     "linkBecause": "Một số thành phần vì lợi ích cá nhân bán sản phẩm mod.\nLên mạng lại nói : 2026 rồi vẫn dùng DL ak  \uD83E\uDD29\n Vui lòng mai vào lại là được !",
     "note": "\uD83D\uDD14\uD83D\uDD14\uD83D\uDD14 Thông báo \uD83D\uDD14\uD83D\uDD14\uD83D\uDD14 \n\nĐể tuân thủ chính pháp luật Việt Nam các ứng dụng xem thể thao, phim truyện không được phép đã đang dừng hoạt động.\nMọi người nên tìm đến các ứng dụng chính thống như VTV Go, FPTPlay, MyTV, TV360, Galaxy và một số ứng dụng khác.",
