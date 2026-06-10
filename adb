@@ -66,17 +66,6 @@
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/BilibiliTV/anh.jpg"
     },
     {
-      "name": "⚽ SportsTV",
-      "versionNameNew": "5.2.3",
-      "categoty": "Thể thao",
-      "rated": "5",
-      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/SportsTV/ic_SportsTV.png",
-      "packageName": "com.sports.tv",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/SportsTV/SportsTV_5.2.3.apk",
-      "note": "Sport TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí trên Android TV Box\nĐể sử dụng được hãy thêm nguồn vào nhé\nLuôn mới nhất tại đây: bom.so/sportstv",
-      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/SportsTV/anh.jpg"
-    },
-    {
       "name": "Cốc cốc TV Lite",
       "versionNameNew": "1.6",
       "categoty": "Trình duyệt web",
@@ -174,6 +163,17 @@
       "linkDownload": "https://github.com/DinhLap96/ListTivi/releases/download/AppTV/FPTPlay_v7.27.1-DL.apk",
       "note": "Nếu cài lỗi thì gỡ ra trước rồi cài lại.\nỨng dụng FPT Play for Android TV đa nền tảng với hàng trăm kênh truyền hình Việt Nam và quốc tế, hàng nghìn giờ phim truyện và show giải trí hấp dẫn. Giao diện hiện đại, thân thiện, tốc độ nhanh, ổn định, chất lượng chuẩn HD trên mọi nền tảng, FPT Play mang đến cho người dùng trải nghiệm giải trí trọn vẹn mọi lúc, mọi nơi.\nPhát sóng trực tiếp các giải thể thao hàng đầu thế giới như Ngoại hạng Anh, Seria A, cúp C1 (trên nhóm kênh K+), AFF, AFC…\nHotline: 19006600\nWebsite: https://fptplay.vn/\nFanpage: https://www.facebook.com/fptplay",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/FPTPlay/anh.png,https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/FPTPlay/anh1.png"
+    },
+    {
+      "name": "ON Plus Smart TV",
+      "versionNameNew": "1.1.72",
+      "rated": "3",
+      "categoty": "Truyền hình trực tuyến",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVcabON/OnPlus.png",
+      "packageName": "com.vtvcab.onsportstv",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVcabON/ONPlus_v1.1.72.apk",
+      "note": "ON Plus là ứng dụng số 1 Việt Nam về bóng đá, thể thao\n\nSỞ HỮU CÁC NGÔI SAO THỂ THAO TRONG LÒNG BÀN TAY\n\nBạn hâm mộ Messi, thích xem Lewandowski nhưng cũng không muốn bỏ lỡ các bàn thắng của Benzema? Với ON Plus, bạn có thể theo dõi đầy đủ những diễn biến trực tiếp của các sự kiện thể thao hấp dẫn nhất.",
+      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVcabON/anhONPlus.png,https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVcabON/OnPlus.png"
     },
     {
       "name": "HTVC Android TV",
@@ -526,28 +526,6 @@
       "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Spotify/SpotifyADS.Removed.apk",
       "note": "Spotify cho Android TV là ứng dụng Spotify chính thức dành cho Android TV cho phép bạn thưởng thức tất cả âm nhạc có trong ứng dụng này bằng TV của bạn. Bạn có thể nghe hàng nghìn nghệ sĩ từ khắp nơi trên thế giới, thưởng thức danh sách phát được cá nhân hóa của mình và về cơ bản làm những điều tương tự như bạn sẽ làm bằng ứng dụng dành cho thiết bị di động hoặc máy tính để bàn của họ.\nSpotify cho Android TV là một ứng dụng thực sự thú vị cho bất kỳ ai sở hữu Android TV vì bạn có thể thưởng thức những bản nhạc hay nhất một cách thoải mái nhất. Tất cả những gì bạn phải làm là sử dụng điều khiển từ xa để phát danh sách phát yêu thích hoặc tăng hoặc giảm âm lượng.",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Spotify/anh.jpg"
-    },
-    {
-      "name": "MonPlayerTV",
-      "versionNameNew": "2.0.0",
-      "rated": "5",
-      "categoty": "Thể thao",
-      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/MonPlayerTV/logo.png",
-      "packageName": "org.monplayer.mpapp",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/MonPlayerTV/MonPlayer_v2.0.0M.apk",
-      "note": "Tích hợp sẵn Thập Cẩm TV và VeboTV\nMonPlayer là một trình phát video nâng cao. Nó định nghĩa lại trải nghiệm của bạn với một trình phát mạnh mẽ hỗ trợ nhiều định dạng.\nĐể sử dụng được hãy thêm nguồn vào nhé",
-      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/MonPlayerTV/anh1.jpg"
-    },
-    {
-      "name": "ON Plus Smart TV",
-      "versionNameNew": "1.1.72",
-      "rated": "3",
-      "categoty": "Thể thao",
-      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVcabON/OnPlus.png",
-      "packageName": "com.vtvcab.onsportstv",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVcabON/ONPlus_v1.1.72.apk",
-      "note": "ON Plus là ứng dụng số 1 Việt Nam về bóng đá, thể thao\n\nSỞ HỮU CÁC NGÔI SAO THỂ THAO TRONG LÒNG BÀN TAY\n\nBạn hâm mộ Messi, thích xem Lewandowski nhưng cũng không muốn bỏ lỡ các bàn thắng của Benzema? Với ON Plus, bạn có thể theo dõi đầy đủ những diễn biến trực tiếp của các sự kiện thể thao hấp dẫn nhất.",
-      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVcabON/anhONPlus.png,https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVcabON/OnPlus.png"
     },
     {
       "name": "TV Bro",
