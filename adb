@@ -374,17 +374,6 @@
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/NimoTV/anh.jpg"
     },
     {
-      "name": "Bilibili TV",
-      "versionNameNew": "1.7.1",
-      "rated": "4",
-      "categoty": "Phim truyện",
-      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/BilibiliTV/logo.png",
-      "packageName": "com.bstar.intl.tv",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/BilibiliTV/bilibili_modvip_v1.7.1.apk",
-      "note": "Cộng đồng video Danmaku, hoạt hình giải trí hai chiều",
-      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/BilibiliTV/anh.jpg"
-    },
-    {
       "name": "Apple TV Android 8+",
       "versionNameNew": "13.5.0",
       "rated": "3",
