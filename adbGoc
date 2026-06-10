@@ -55,15 +55,15 @@
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/NhacCuaTui/anh.webp"
     },
     {
-      "name": "Bilibili TV",
-      "versionNameNew": "1.7.1",
-      "rated": "4",
+      "name": "CloudStream",
+      "versionNameNew": "4.7.0",
+      "rated": "5",
       "categoty": "Phim truyện",
-      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/BilibiliTV/logo.png",
-      "packageName": "com.bstar.intl.tv",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/BilibiliTV/bilibili_modvip_v1.7.1.apk",
-      "note": "Cộng đồng video Danmaku, hoạt hình giải trí hai chiều",
-      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/BilibiliTV/anh.jpg"
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/CloudStream/logo.png",
+      "packageName": "com.lagradost.cloudstream3",
+      "linkDownload": "https://github.com/recloudstream/cloudstream/releases/download/v4.7.0/4.7.0.apk",
+      "note": "CloudStream là ứng dụng tiên tiến tích hợp nhiều dịch vụ phát trực tuyến vào một nền tảng gắn kết. Cho dù bạn là người mê phim, người xem phim truyền hình dài tập hay người đam mê âm nhạc, CloudStream đều đáp ứng mọi nhu cầu giải trí của bạn.\nNguồn Kho : rentry.org/cs3vn \n Nguồn tải luôn mới nhất https://github.com/recloudstream/cloudstream/releases",
+      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/CloudStream/anh.jpg"
     },
     {
       "name": "⚽ SportsTV",
@@ -154,6 +154,17 @@
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/LeanKeyKeyboard/anh.jpg"
     },
     {
+      "name": "iMedia - Xem Tivi HD",
+      "versionNameNew": "25.04.06.B",
+      "categoty": "Truyền hình trực tuyến",
+      "rated": "5",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/iMedia/iMedia.png",
+      "packageName": "com.kt.apps.media.xemtv.beta",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/iMedia/iMedia-25.04.06.B_mod.apk",
+      "note": "Ứng dụng iMedia là một ứng dụng miễn phí trên nền tảng Android TV, cho phép người dùng xem truyền hình và phát thanh phổ thông mà không cần phải trả bất kỳ khoản phí nào. Ứng dụng cũng không có quảng cáo, mang lại cho người dùng một trải nghiệm sử dụng không bị gián đoạn.iMedia có giao diện đơn giản và dễ sử dụng, với các tính năng như chọn kênh truyền hình hoặc phát thanh yêu thích của bạn, tìm kiếm nhanh chóng",
+      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/iMedia/anh.jpg"
+    },
+    {
       "name": "VTVPrime",
       "versionNameNew": "1.11.0",
       "categoty": "Truyền hình trực tuyến",
@@ -165,17 +176,6 @@
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVPrime/anh1.png,https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVPrime/anh2.png"
     },
     {
-      "name": "FPT Play",
-      "versionNameNew": "7.27.1",
-      "categoty": "Truyền hình trực tuyến",
-      "rated": "3",
-      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/FPTPlay/banner_fptplay.jpg",
-      "packageName": "net.fptplay.ottbox",
-      "linkDownload": "https://github.com/DinhLap96/ListTivi/releases/download/AppTV/FPTPlay_v7.27.1-DL.apk",
-      "note": "Nếu cài lỗi thì gỡ ra trước rồi cài lại.\nỨng dụng FPT Play for Android TV đa nền tảng với hàng trăm kênh truyền hình Việt Nam và quốc tế, hàng nghìn giờ phim truyện và show giải trí hấp dẫn. Giao diện hiện đại, thân thiện, tốc độ nhanh, ổn định, chất lượng chuẩn HD trên mọi nền tảng, FPT Play mang đến cho người dùng trải nghiệm giải trí trọn vẹn mọi lúc, mọi nơi.\nPhát sóng trực tiếp các giải thể thao hàng đầu thế giới như Ngoại hạng Anh, Seria A, cúp C1 (trên nhóm kênh K+), AFF, AFC…\nHotline: 19006600\nWebsite: https://fptplay.vn/\nFanpage: https://www.facebook.com/fptplay",
-      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/FPTPlay/anh.png,https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/FPTPlay/anh1.png"
-    },
-    {
       "name": "QuanTV",
       "versionNameNew": "250921",
       "categoty": "Truyền hình trực tuyến",
@@ -185,6 +185,28 @@
       "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/QuanTV/QuanTV_v250921.apk",
       "note": "Xem truyền hình, mượt",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/QuanTV/anh.png"
+    },
+    {
+      "name": "VietPlay TV",
+      "versionNameNew": "2.3",
+      "categoty": "Truyền hình trực tuyến",
+      "rated": "4",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VietPlayTV/logo.png",
+      "packageName": "com.nghenhin24h.vietplaytv",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VietPlayTV/VietPlayTV_v2.3.apk",
+      "note": "Ứng dụng VietPlay TV xem trên TV một cách tiện lợi.",
+      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VietPlayTV/anh.png"
+    },
+    {
+      "name": "vAppTV",
+      "versionNameNew": "1.0.2",
+      "categoty": "Truyền hình trực tuyến",
+      "rated": "4",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/vAppTV/logo.png",
+      "packageName": "com.vproject.vapptv",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/vAppTV/vAppTV_1.0.2_20250619.apk",
+      "note": "Ứng dụng vAppTV để quản lý liên kết, thiết bị và nội dung của bạn mọi lúc mọi nơi. Ứng dụng giúp bạn dễ dàng chia sẻ và lưu trữ nội dung, đồng thời xem trên TV một cách tiện lợi.\nNguồn : freem3u.xyz/r/G5qId4bHg",
+      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/vAppTV/anh2.jpg,https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/vAppTV/anh.jpg"
     },
     {
       "name": "HTVC Android TV",
@@ -231,15 +253,15 @@
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/SCTV/anh.png"
     },
     {
-      "name": "iMedia - Xem Tivi HD",
-      "versionNameNew": "25.04.06.B",
+      "name": "FPT Play",
+      "versionNameNew": "7.27.1",
       "categoty": "Truyền hình trực tuyến",
-      "rated": "5",
-      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/iMedia/iMedia.png",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/iMedia/iMedia-25.04.06.B_mod.apk",
-      "note": "Ứng dụng iMedia là một ứng dụng miễn phí trên nền tảng Android TV, cho phép người dùng xem truyền hình và phát thanh phổ thông mà không cần phải trả bất kỳ khoản phí nào. Ứng dụng cũng không có quảng cáo, mang lại cho người dùng một trải nghiệm sử dụng không bị gián đoạn.iMedia có giao diện đơn giản và dễ sử dụng, với các tính năng như chọn kênh truyền hình hoặc phát thanh yêu thích của bạn, tìm kiếm nhanh chóng",
-      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/iMedia/anh.jpg"
+      "rated": "3",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/FPTPlay/banner_fptplay.jpg",
+      "packageName": "net.fptplay.ottbox",
+      "linkDownload": "https://github.com/DinhLap96/ListTivi/releases/download/AppTV/FPTPlay_v7.27.1-DL.apk",
+      "note": "Nếu cài lỗi thì gỡ ra trước rồi cài lại.\nỨng dụng FPT Play for Android TV đa nền tảng với hàng trăm kênh truyền hình Việt Nam và quốc tế, hàng nghìn giờ phim truyện và show giải trí hấp dẫn. Giao diện hiện đại, thân thiện, tốc độ nhanh, ổn định, chất lượng chuẩn HD trên mọi nền tảng, FPT Play mang đến cho người dùng trải nghiệm giải trí trọn vẹn mọi lúc, mọi nơi.\nPhát sóng trực tiếp các giải thể thao hàng đầu thế giới như Ngoại hạng Anh, Seria A, cúp C1 (trên nhóm kênh K+), AFF, AFC…\nHotline: 19006600\nWebsite: https://fptplay.vn/\nFanpage: https://www.facebook.com/fptplay",
+      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/FPTPlay/anh.png,https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/FPTPlay/anh1.png"
     },
     {
       "name": "VTVcab ON",
@@ -385,6 +407,17 @@
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/NimoTV/anh.jpg"
     },
     {
+      "name": "AnimeTV",
+      "versionNameNew": "5.4.2-Nightly",
+      "rated": "3",
+      "categoty": "Phim truyện",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/AnimeTV/logo.png",
+      "packageName": "com.amarullz.androidtv.animetvjmto",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/AnimeTV/animetv-5.4.2-Nightly.apk",
+      "note": "Một Kho Phim Anime",
+      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/AnimeTV/anh.jpg"
+    },
+    {
       "name": "Bilibili TV",
       "versionNameNew": "1.7.1",
       "rated": "4",
@@ -405,6 +438,17 @@
       "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/AppleTV/AppleTV_v13.5.0.apk",
       "note": "Yêu cầu android 8+\nỨng dụng Apple TV hiện có sẵn trên TV của bạn.\nThưởng thức Originals từ Apple TV+, thử các kênh cao cấp và mua hoặc thuê hàng nghìn bộ phim.",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/AppleTV/anh.webp"
+    },
+    {
+      "name": "HDO Box",
+      "versionNameNew": "2.0.9",
+      "rated": "2",
+      "categoty": "Giải trí",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/HDOBox/HDO_Box.png",
+      "packageName": "com.hdobox",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/HDOBox/HDO_Box_AF_2.0.9_Mod_Banner.apk",
+      "note": "HDO Box là một ứng dụng mà bạn có thể phát trực tuyến hàng ngàn bộ phim và giày truyền hình hoàn toàn miễn phí. Điều tốt nhất về HDO Box là giao diện người dùng. Thiết kế đáp ứng và điều hướng dễ dàng làm cho nó đứng đầu danh sách\nCác bộ phim và chương trình truyền hình được phân loại và hiển thị đẹp mắt trên màn hình chính. Nó có phần Xu hướng chứa các thể loại khác nhau như Hành động, Hài kịch, Khoa học viễn tưởng, Kinh dị, Bí ẩn, v.v. Tiêu đề hiển thị các thông tin khác như xếp hạng IMDB, Năm phát hành, Dàn diễn viên chính, v.v.",
+      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/HDOBox/anh.jpg"
     },
     {
       "name": "Netflix mobile",
@@ -493,17 +537,6 @@
       "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/TikTokLite/TikTokLite_v41.4.4.apk",
       "note": "Lưu ý đây là bản Lite cho Mobile nên dùng phải dùng chuột để điều khiển\nTikTok Lite là phiên bản nhỏ hơn và nhanh hơn của TikTok, được thiết kế dành cho người dùng có RAM dưới 2GB, dữ liệu hạn chế hoặc kết nối với mạng 2G hoặc 3G.",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/TikTokLite/anh.png"
-    },
-    {
-      "name": "CloudStream",
-      "versionNameNew": "4.7.0",
-      "rated": "5",
-      "categoty": "Phim truyện",
-      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/CloudStream/logo.png",
-      "packageName": "com.lagradost.cloudstream3",
-      "linkDownload": "https://github.com/recloudstream/cloudstream/releases/download/v4.7.0/4.7.0.apk",
-      "note": "CloudStream là ứng dụng tiên tiến tích hợp nhiều dịch vụ phát trực tuyến vào một nền tảng gắn kết. Cho dù bạn là người mê phim, người xem phim truyền hình dài tập hay người đam mê âm nhạc, CloudStream đều đáp ứng mọi nhu cầu giải trí của bạn.\nNguồn Kho : rentry.org/cs3vn \n Nguồn tải luôn mới nhất https://github.com/recloudstream/cloudstream/releases",
-      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/CloudStream/anh.jpg"
     },
     {
       "name": "Stremio",
