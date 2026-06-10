@@ -23,12 +23,12 @@
   "apps": [
     {
       "name": "VTVGo TV",
-      "versionNameNew": "12.5.28",
+      "versionNameNew": "12.6.9",
       "categoty": "Truyền hình trực tuyến",
       "rated": "4",
       "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVGoTV/Vtv_go_banner.png",
       "packageName": "vn.vtv.vtvgotv",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVGoTV/VTVgoTV_v12.5.28_DL.apk",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVGoTV/VTVgoTV_v12.6.9.apk",
       "note": "VTVgo là hệ thống xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam cho phép khán giả VTV xem trực tiếp, xem lại, xem theo chủ đề mọi chương trình truyền hình cũng như thưởng thức kho video độc quyền lớn nhất Việt Nam trên nhiều lĩnh vực.\nCác tính năng chính:\n1. Kênh TV\n• Xem trực tuyến các kênh truyền hình Việt Nam: VTV1, VTV2, VTV3, VTV4, VTV5, VTV6, VTV7, VTV8, VTV9, VTV5 Tây Nguyên và VTV5 Tây Nam Bộ.",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVGoTV/anh.png"
     },
