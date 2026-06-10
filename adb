@@ -176,17 +176,6 @@
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/FPTPlay/anh.png,https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/FPTPlay/anh1.png"
     },
     {
-      "name": "QuanTV",
-      "versionNameNew": "250921",
-      "categoty": "Truyền hình trực tuyến",
-      "rated": "5",
-      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/QuanTV/logo.png",
-      "packageName": "vn.quan.quantv",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/QuanTV/QuanTV_v250921.apk",
-      "note": "Xem truyền hình, mượt",
-      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/QuanTV/anh.png"
-    },
-    {
       "name": "HTVC Android TV",
       "versionNameNew": "1.1.1",
       "categoty": "Truyền hình trực tuyến",
