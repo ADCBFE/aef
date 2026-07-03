@@ -17,7 +17,7 @@
     "versionHomeTVLap": "18-Lap,9.0.2,19,20,21,22,19-Lap,19-DinhLap,18,18-DinhLap,16-XiaomiBinhDinh,16,15,14,13,12,10,9,8,16.0.2,16-MiThaiNguyen,15-DienMayXiaomi",
     "timeLap":"20250426",
     "linkHomeTVLap": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/app/Home_TV_vHomeTVDinhLap_v23_1900000000_MoDinhLap_Chiase.apk",
-    "packageFake": "com.dl.hakison,com.xiaomi.haki,com.xiaomi.hometv,com.xiaomi.mitv.voicecontrol",
+    "packageFake": "com.crackapp.hometv,com.dl.hakison,com.xiaomi.haki,com.xiaomi.hometv,com.xiaomi.mitv.voicecontrol",
     "linkHomeTVMod": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/app/HomeTV_vM.apk"
   },
   "apps": [
