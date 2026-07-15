@@ -1,5 +1,7 @@
 git reset --hard HEAD~1
 
+sony,xiaomi,oneplus
+
     {
       "name": "Monster TV",
       "versionNameNew": "3.2.0",

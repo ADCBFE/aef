@@ -3,7 +3,7 @@
     "nameApp": "DL Store",
     "versionNameNew": "16.0.4",
     "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/app/DLStore_v16.0.4.apk",
-    "manufacturer": "sony,xiaomi,oneplus",
+    "manufacturer": "",
     "checkDate": "3",
     "linkBecause": "Một số thành phần vì lợi ích cá nhân bán sản phẩm mod.\nLên mạng lại nói : 2026 rồi vẫn dùng DL ak  \uD83E\uDD29\n Vui lòng mai vào lại là được !",
     "note": "",
@@ -265,12 +265,12 @@
     },
     {
       "name": "TizenTube",
-      "versionNameNew": "1.0.8",
+      "versionNameNew": "2.0.2",
       "rated": "5",
       "categoty": "Giải trí",
       "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Youtube/TizenTube.png",
       "packageName": "io.gh.reisxd.tizentube.cobalt",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Youtube/TizenTube_v1.0.8.apk",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Youtube/TizenTube_v2.0.2_mod1.0.8.apk",
       "note": "Nếu cập nhật thất bại vui lòng gỡ ra trước và cài đặt lại !\nTizenTube Android 7, YouTube Leanback UI.\nAdblock, SponsorBlock, DeArrow.\nDisable shorts and more...",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Youtube/anh.webp,https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Youtube/anh1.jpg"
     },
