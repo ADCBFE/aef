@@ -66,6 +66,17 @@
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/BilibiliTV/anh.jpg"
     },
     {
+      "name": "⚽ SportsTV",
+      "versionNameNew": "5.2.3",
+      "categoty": "Thể thao",
+      "rated": "5",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/SportsTV/ic_SportsTV.png",
+      "packageName": "com.sports.tv",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/SportsTV/SportsTV_5.2.3.apk",
+      "note": "Sport TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí trên Android TV Box\nĐể sử dụng được hãy thêm nguồn vào nhé\nLuôn mới nhất tại đây: bom.so/sportstv",
+      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/SportsTV/anh.jpg"
+    },
+    {
       "name": "Cốc cốc TV Lite",
       "versionNameNew": "1.6",
       "categoty": "Trình duyệt web",
