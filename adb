@@ -803,13 +803,13 @@
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Kiki/anh.webp"
     },
     {
-      "name": "Downloader by AFTV",
-      "versionNameNew": "1.4.4",
+      "name": "Downloader",
+      "versionNameNew": "1.5.1-ForGoogleAndroidDevices",
       "rated": "5",
       "categoty": "Tiện ích",
-      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/DownloaderByAFTV/Downloader.png",
-      "packageName": "com.esaba.downloader",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/DownloaderByAFTV/DownloaderbyAFTV1.4.4.apk",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/DownloaderByAFTV/banner.png",
+      "packageName": "com.esaba.FerrariDownloaderFerrari",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/DownloaderByAFTV/ferraridownloader_1.5.1.apk",
       "note": "Downloader by AFTV",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/DownloaderByAFTV/anh.jpg"
     },
