@@ -671,6 +671,17 @@
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Zoom/anh.jpg"
     },
     {
+      "name": "Downloader By AFTV",
+      "versionNameNew": "2.0.3-dlvh",
+      "rated": "5",
+      "categoty": "Tiện ích",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/DownloaderByAFTV/banner.png",
+      "packageName": "com.esaba.downloader",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/DownloaderByAFTV/Downloader_v2.0.3-dlvh.apk",
+      "note": "Downloader by AFTV",
+      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/DownloaderByAFTV/anh.jpg"
+    },
+    {
       "name": "Kết nối Bluetooth",
       "versionNameNew": "1.0",
       "rated": "4",
@@ -801,17 +812,6 @@
       "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Kiki/Kiki-AndroidTV_24.01.01.apk",
       "note": "Kiki - Android TV là phiên bản hỗ trợ Kiki sử dụng trên TV thông minh và các TV Box chạy hệ điều hành Android TV. Tính năng điều khiển bằng giọng nói mang lại sự tiện ích khi xem TV. Chỉ bằng một câu nói đơn giản, người dùng có thể giao tiếp với trợ lý Kiki để mở kênh truyền hình, video trên youtube và nhiều tác vụ hữu ích khác.\nPhát triển bởi : by Zalo Group",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Kiki/anh.webp"
-    },
-    {
-      "name": "Downloader",
-      "versionNameNew": "2.0.3-dlvh",
-      "rated": "5",
-      "categoty": "Tiện ích",
-      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/DownloaderByAFTV/banner.png",
-      "packageName": "com.esaba.downloader",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/DownloaderByAFTV/Downloader_v2.0.3-dlvh.apk",
-      "note": "Downloader by AFTV",
-      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/DownloaderByAFTV/anh.jpg"
     },
     {
       "name": "Remote ADB",
