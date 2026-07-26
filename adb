@@ -825,6 +825,17 @@
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/RemoteADB/RemoteADB.png"
     },
     {
+      "name": "MiTVInfo",
+      "versionNameNew": "1.0",
+      "rated": "4",
+      "categoty": "Tiện ích",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/RemoteADB/RemoteADB.png",
+      "packageName": "com.dinhlap.adb",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/RemoteADB/MiTVInfo_v1.0.apk",
+      "note": "Từ bản 5.0 đổ xuống lên v6.0 hay gỡ ứng dụng ra trước rồi tải lại.\nThực hiện các lệnh adb trên Điện Thoại và TV.\n+ Cài đặt múi giờ.\n+ Xoá bộ nhớ đệm,.\n+Xoá dữ liệu,....",
+      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/RemoteADB/RemoteADB.png"
+    },
+    {
       "name": "Weather Weawow°",
       "versionNameNew": "6.1.7",
       "rated": "5",
