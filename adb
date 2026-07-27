@@ -489,7 +489,7 @@
       "rated": "5",
       "categoty": "Phim truyện",
       "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/CloudStream/logo.png",
-      "packageName": "com.lagradost.cloudstream3",
+      "packageName": "com.lagradost.cloudstream3.prerelease",
       "linkDownload": "https://github.com/recloudstream/cloudstream/releases/download/pre-release/app-prerelease-release.apk",
       "note": "CloudStream là ứng dụng tiên tiến tích hợp nhiều dịch vụ phát trực tuyến vào một nền tảng gắn kết. Cho dù bạn là người mê phim, người xem phim truyền hình dài tập hay người đam mê âm nhạc, CloudStream đều đáp ứng mọi nhu cầu giải trí của bạn.\nNguồn Kho : rentry.org/cs3vn \n Nguồn tải luôn mới nhất https://github.com/recloudstream/cloudstream/releases",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/CloudStream/anh.jpg"
