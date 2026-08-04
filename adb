@@ -495,28 +495,6 @@
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/CloudStream/anh.jpg"
     },
     {
-      "name": "Stremio",
-      "versionNameNew": "1.6.7",
-      "rated": "4",
-      "categoty": "Phim truyện",
-      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Stremio/Stremio_logo.png",
-      "packageName": "com.stremio.one",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Stremio/Stremio_v1.6.7.apk",
-      "note": "Stremio mang đến trải nghiệm giải trí an toàn, hiện đại và liền mạch. Với giao diện dễ sử dụng và thư viện nội dung đa dạng, bao gồm hỗ trợ 4K HDR, người dùng có thể thưởng thức các bộ phim và chương trình TV yêu thích trên tất cả các thiết bị của mình. Và với cam kết về bảo mật, Stremio là sự lựa chọn tối ưu để mang lại trải nghiệm phát trực tuyến chất lượng cao, an tâm.",
-      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Stremio/anh.png"
-    },
-    {
-      "name": "Boba TV",
-      "versionNameNew": "1.66.164",
-      "rated": "3",
-      "categoty": "Giải trí",
-      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/BobaTV/BoBaTV.png",
-      "packageName": "com.vietigniter.boba",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/BobaTV/BobaTV_v1.66.164.apk",
-      "note": "Boba TV Ứng dụng xem phim HD online dành cho Android TV Box (Phiên bản nâng cấp của ứng dụng IMovies). Hỗ trợ xem phim HD, 3D ISO Bluray trên Android TV Box và Smart TV Android. Nếu bạn dùng cho điện thoại vui lòng tải ứng dụng Boba Phone để có trải nghiệm tốt hơn\n- Xem phim Full HD trên Android TV Box\n- Xem phim Bluray, ISO DTS trên Android Tv Box\n- Xem phim 3D ISO, 3D Bluray\n- Hỗ trợ điều khiển từ xa tivi bằng điện thoại thông qua ứng dụng Boba Phone",
-      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/BobaTV/anh.jpg"
-    },
-    {
       "name": "Zing mp3",
       "versionNameNew": "23.09",
       "rated": "4",
