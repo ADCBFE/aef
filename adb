@@ -282,7 +282,7 @@
       "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Youtube/youtube_tv.png",
       "packageName": "com.google.android.youtube.tv",
       "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Youtube/TizenTube_v1.10.1.apk",
-      "note": "Nguồn: https://github.com/JackieDo/Cobalt-Tube/releases \nỨng dụng YoutubeTV bản chính thức của google có quảng cáo .\nCác tính năng phát hành hiện tại:\nChạy trên Android 5 trở lên\nDuyệt qua Tin tức, Trò chơi, Âm nhạc\nDuyệt qua đăng ký, lịch sử, danh sách phát\nPhát video\nThích, Không thích hoặc Đăng ký cho video\nTìm kiếm video\nXem nội dung kênh đã đăng ký\nThay đổi các cài đặt khác nhau cho trình phát video\nXem trước hoạt ảnh cho video\nCác kênh Android TV và hỗ trợ tìm kiếm\"",
+      "note": "Nguồn: https://github.com/JackieDo/Cobalt-Tube/releases \nỨng dụng YoutubeTV này không có quảng cáo .\nCác tính năng phát hành hiện tại:\nChạy trên Android 5 trở lên\nDuyệt qua Tin tức, Trò chơi, Âm nhạc\nDuyệt qua đăng ký, lịch sử, danh sách phát\nPhát video\nThích, Không thích hoặc Đăng ký cho video\nTìm kiếm video\nXem nội dung kênh đã đăng ký\nThay đổi các cài đặt khác nhau cho trình phát video\nXem trước hoạt ảnh cho video\nCác kênh Android TV và hỗ trợ tìm kiếm\"",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Youtube/anh.webp,https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Youtube/anh1.jpg"
     },
     {
