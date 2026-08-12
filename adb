@@ -578,7 +578,7 @@
       "categoty": "Camera",
       "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Hik-Connect/HikConnect.png",
       "packageName": "com.hikvision.hikconnect",
-      "linkDownload": "https://github.com/DinhLap96/ListTivi/releases/download/AppTV/Hik-Connect_5.1.3.0320.apk",
+      "linkDownload": "https://release-assets.githubusercontent.com/github-production-release-asset/441910170/1312271c-ac6e-42c2-b959-646dbcb3e286?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-12T17%3A15%3A14Z&rscd=attachment%3B+filename%3DHik-Connect_5.1.3.0320.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-12T16%3A15%3A01Z&ske=2026-08-12T17%3A15%3A14Z&sks=b&skv=2018-11-09&sig=KQIEPJaTHDB8sjrANjFrVMK4irQupUMUC1qhKr5UyI8%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NjU1NTk3NCwibmJmIjoxNzg2NTUyMzc0LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.sjIS16S91bokIvSnAqqO2t1-nmjg39T4h_ZqQK-Xb4Y&response-content-disposition=attachment%3B%20filename%3DHik-Connect_5.1.3.0320.apk&response-content-type=application%2Fvnd.android.package-archive",
       "note": "Phải dùng chuột !\nỨng dụng Hik-Connect được thiết kế để hoạt động với các thiết bị của Hikvision như DVR, NVR, Camera.Tính năng chính:\n. Giám sát trong thời gian thực bằng điều khiển PTZ. Phát lại video. Hệ thống liên lạc âm thanh hai chiều. Thông báo cảnh báo tức thì bằng hình ảnh và video. Trả lời cuộc gọi từ chuông cửa/thiết bị liên lạc video. Bảng điều khiển an ninh im lặng từ xa. Chia sẻ thiết bị cho người khác với quyền hạn chế. Đăng nhập bằng vân tay thuận tiện và an toàn",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Hik-Connect/anh.jpg"
     },
@@ -589,7 +589,7 @@
       "categoty": "Camera",
       "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/YooseeMobile/yoosee_logo.png",
       "packageName": "com.yoosee",
-      "linkDownload": "https://github.com/DinhLap96/ListTivi/releases/download/AppTV/Yoosee_00.46.06.17.apk",
+      "linkDownload": "https://release-assets.githubusercontent.com/github-production-release-asset/441910170/b905c69a-2fbf-4bcf-bd6c-caa825702a94?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-12T17%3A14%3A06Z&rscd=attachment%3B+filename%3DYoosee_00.46.06.17.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-12T16%3A13%3A15Z&ske=2026-08-12T17%3A14%3A06Z&sks=b&skv=2018-11-09&sig=v8CTFNiSHqbuHWP6CTkmX%2B32r%2BS6mQGoIUgxerjWLJc%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NjU1NjM2NSwibmJmIjoxNzg2NTUyNzY1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.NO0hVQrvBv1jzscivOqlbLRDmZYsNxSgEtGzU2hDkGU&response-content-disposition=attachment%3B%20filename%3DYoosee_00.46.06.17.apk&response-content-type=application%2Fvnd.android.package-archive",
       "note": "Xem camera Yoosee -phải dùng chuột",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/YooseeMobile/anh.png"
     },
@@ -600,7 +600,7 @@
       "categoty": "Camera",
       "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/DMSS/logo.png",
       "packageName": "com.mm.android.DMSS",
-      "linkDownload": "https://github.com/DinhLap96/ListTivi/releases/download/AppTV/DMSS_v1.99.803.apk",
+      "linkDownload": "https://release-assets.githubusercontent.com/github-production-release-asset/441910170/b905c69a-2fbf-4bcf-bd6c-caa825702a94?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-12T17%3A14%3A06Z&rscd=attachment%3B+filename%3DYoosee_00.46.06.17.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-12T16%3A13%3A15Z&ske=2026-08-12T17%3A14%3A06Z&sks=b&skv=2018-11-09&sig=v8CTFNiSHqbuHWP6CTkmX%2B32r%2BS6mQGoIUgxerjWLJc%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NjU1NjM2NSwibmJmIjoxNzg2NTUyNzY1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.NO0hVQrvBv1jzscivOqlbLRDmZYsNxSgEtGzU2hDkGU&response-content-disposition=attachment%3B%20filename%3DDMSS_v1.99.803.apk&response-content-type=application%2Fvnd.android.package-archive",
       "note": "Xem camera DMSS -phải dùng chuột\nỨng dụng DMSS có thể nâng cao hiệu quả quản lý bảo mật của bạn. Bạn có thể xem video giám sát theo thời gian thực và phát lại chúng mọi lúc, mọi nơi thông qua Wi-Fi hoặc mạng di động. Nếu cảnh báo thiết bị được kích hoạt, DMSS sẽ ngay lập tức gửi thông báo tức thời cho bạn.",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/DMSS/anh.png"
     },
