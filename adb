@@ -567,7 +567,7 @@
       "categoty": "Camera",
       "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/ViettelHome/logo.png",
       "packageName": "com.vht.androidtv",
-      "linkDownload": "https://github.com/DinhLap96/ListTivi/releases/download/AppTV/ViettelHome_v1.4.0.apk",
+      "linkDownload": "https://release-assets.githubusercontent.com/github-production-release-asset/441910170/8926ecfc-fbd6-42a4-b7c9-e01061825582?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-12T17%3A12%3A24Z&rscd=attachment%3B+filename%3DViettelHome_v1.4.0.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-12T16%3A11%3A58Z&ske=2026-08-12T17%3A12%3A24Z&sks=b&skv=2018-11-09&sig=biJqdHw4ppYWjdQT%2BNpEFI2UkiPPaAOjKCbaZvQlXJY%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NjU1NTczNiwibmJmIjoxNzg2NTUyMTM2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.SCRHxHxEvm9_HukdLem0CCZDkHU4boyyiu3WtxTXiuo&response-content-disposition=attachment%3B%20filename%3DViettelHome_v1.4.0.apk&response-content-type=application%2Fvnd.android.package-archive",
       "note": "Ứng dụng Viettel Home cho Android TV\n\nViettel Home là ứng dụng cung cấp giải pháp toàn diện về nhà thông minh và giám sát an ninh cho gia đình bạn.",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/ViettelHome/anh.png"
     },
