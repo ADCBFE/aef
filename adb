@@ -7,7 +7,7 @@
     "checkDate": "3",
     "linkBecause": "Một số thành phần vì lợi ích cá nhân bán sản phẩm mod.\nLên mạng lại nói : 2026 rồi vẫn dùng DL ak  \uD83E\uDD29\n Vui lòng mai vào lại là được !",
     "note": "",
-    "ad": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/ad/worldcupVTV.jpg",
+    "ad": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/ad/vtv6.png",
     "linkWeb": "https://sites.google.com/view/dinhlaptv"
   },
   "homeTV": {
