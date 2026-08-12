@@ -5,7 +5,7 @@
     "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/app/DLStore_v16.0.5.apk",
     "manufacturer": "",
     "checkDate": "3",
-    "linkBecause": "Một số thành phần vì lợi ích cá nhân bán sản phẩm mod.\nLên mạng lại nói : 2026 rồi vẫn dùng DL ak  \uD83E\uDD29\n Vui lòng mai vào lại là được !",
+    "linkBecause": "Một số thành phần vì lợi ích cá nhân bán sản phẩm mod, chỉnh sửa logo, tên ứng dụng biến tấu thành của hẳn.\nVui lòng mai vào tải lại là được !",
     "note": "",
     "ad": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/ad/vtv6.png",
     "linkWeb": "https://sites.google.com/view/dinhlaptv"
