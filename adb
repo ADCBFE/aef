@@ -561,7 +561,7 @@
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/KiwiBrowser/anh.png"
     },
     {
-      "name": "ViettelHome",
+      "name": "Viettel Home",
       "versionNameNew": "1.4.4",
       "rated": "4",
       "categoty": "Camera",
