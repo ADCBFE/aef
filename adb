@@ -155,12 +155,12 @@
     },
     {
       "name": "VTVPrime",
-      "versionNameNew": "1.11.0",
+      "versionNameNew": "1.18.2",
       "categoty": "Truyền hình trực tuyến",
       "rated": "4",
       "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVPrime/banner.png",
       "packageName": "vn.vtvcab.vtvprime.atv",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVPrime/VTVprime_v1.11.0.apk",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVPrime/VTVprime_v1.18.2_vn.apk",
       "note": "VTVgo là hệ thống xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam cho phép khán giả VTV xem trực tiếp, xem lại, xem theo chủ đề mọi chương trình truyền hình cũng như thưởng thức kho video độc quyền lớn nhất Việt Nam trên nhiều lĩnh vực.\nCác tính năng chính:\n1. Kênh TV\n• Xem trực tuyến các kênh truyền hình Việt Nam: VTV1, VTV2, VTV3, VTV4, VTV5, VTV6, VTV7, VTV8, VTV9, VTV5 Tây Nguyên và VTV5 Tây Nam Bộ.",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVPrime/anh1.png,https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/VTVPrime/anh2.png"
     },
