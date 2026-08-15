@@ -567,7 +567,7 @@
       "categoty": "Camera",
       "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/ViettelHome/logo.png",
       "packageName": "com.vht.androidtv",
-      "linkDownload": "https://github.com/DinhLap96/ListTivi/releases/download/AppTV/ViettelHome_v1.4.4.apk",
+      "linkDownload": "https://github.com/DinhLap96/KhoApp/releases/download/App/ViettelHome_v1.4.4.apk",
       "note": "Ứng dụng Viettel Home cho Android TV\n\nViettel Home là ứng dụng cung cấp giải pháp toàn diện về nhà thông minh và giám sát an ninh cho gia đình bạn.",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/ViettelHome/anh.png"
     },
