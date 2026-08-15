@@ -199,9 +199,20 @@
     },
     {
       "name": "TV360",
+      "versionNameNew": "6.2",
+      "categoty": "Truyền hình trực tuyến",
+      "rated": "4",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/TV360/TV360.png",
+      "packageName": "com.viettel.tv360.tv",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/TV360/TV360-AndroidTV_v6.2_vn.apk",
+      "note": "Tất cả đều có trên ứng dụng TV360: Gần 200 kênh truyền hình VTV, HTV, VTVCab, VTC, kênh nước ngoài như Fox Movies, Box Movies, Hollywood … và các đài địa phương. Trực tiếp bóng đá Europa League, SeaGame, AFF Suzuki Cup, V – League, Cúp Quốc Gia, LaLiga, Bundesliga và nhiều giải đấu khác.",
+      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/TV360/anh.jpg"
+    },
+    {
+      "name": "TV360",
       "versionNameNew": "4.4",
       "categoty": "Truyền hình trực tuyến",
-      "rated": "3",
+      "rated": "4",
       "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/TV360/TV360.png",
       "packageName": "com.viettel.tv360.tv",
       "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/TV360/TV360-AndroidTV_4.4_DL.apk",
