@@ -166,12 +166,12 @@
     },
     {
       "name": "FPT Play",
-      "versionNameNew": "7.32.11",
+      "versionNameNew": "7.33.10",
       "categoty": "Truyền hình trực tuyến",
       "rated": "3",
       "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/FPTPlay/banner_fptplay.jpg",
       "packageName": "net.fptplay.ottbox",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/FPTPlay/FPTPlay_v7.32.11.apk",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/FPTPlay/FPTPlay_v7.33.10.apk",
       "note": "Nếu cài lỗi thì gỡ ra trước rồi cài lại.\nỨng dụng FPT Play for Android TV đa nền tảng với hàng trăm kênh truyền hình Việt Nam và quốc tế, hàng nghìn giờ phim truyện và show giải trí hấp dẫn. Giao diện hiện đại, thân thiện, tốc độ nhanh, ổn định, chất lượng chuẩn HD trên mọi nền tảng, FPT Play mang đến cho người dùng trải nghiệm giải trí trọn vẹn mọi lúc, mọi nơi.\nPhát sóng trực tiếp các giải thể thao hàng đầu thế giới như Ngoại hạng Anh, Seria A, cúp C1 (trên nhóm kênh K+), AFF, AFC…\nHotline: 19006600\nWebsite: https://fptplay.vn/\nFanpage: https://www.facebook.com/fptplay",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/FPTPlay/anh.png,https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/FPTPlay/anh1.png"
     },
