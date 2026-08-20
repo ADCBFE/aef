@@ -13,10 +13,10 @@
   "homeTV": {
     "versionHomeTVShop": "MiHaiPhong,MiHaiPhongVaMienBac,tokoo.vn,VuaXiaomi,16-GoldMiHungYen,18-shop,16-shop,19-shop,HomeTVShop,TiviXiaomiHaiPhong,DienMayChoTong,dienmaymi.vn,15.0.5-Long Bien,16-TongKhoXiaomi,XiaomiPhuTho,XiaomiStoreHaNoi,18-Lap,Mi3s,ShopMi3s,tivixiaomi.com,XiaomiVietTri,NgocNguyen,MigiasiMienNam,TVXiaomiBinhDuong,16-XiaomiBinhDinh,16-TiviXiaomiNinhBinh,VuaRobot,DienMayHalo,18-INNOVAC-GROUP,18-DienMayCongTrinh,18-DienMayHalo,16-XiaomiVietNam,18-TiviXiaomiVietNam,TiviXiaomiVietNam,15-Halo,15-DienMayXiaomi,16-LongTV,14.0.5-XiaomiHanoi,16-Mi3S,13.0.1,1616161616,15.0.4,15.0.2,16.0.1,16.0.0,16.0.2,6.0,10.0.0,8.0.1,13.0.0,13.0.2,9.0.2",
     "timeShop":"20260418",
-    "linkHomeTVShop": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/app/Home_TV_vHomeTVShopV2_v23_1900000000_MoDinhLap_Chiase.apk",
+    "linkHomeTVShop": "abcdef",
     "versionHomeTVLap": "18-Lap,9.0.2,19,20,21,22,19-Lap,19-DinhLap,18,18-DinhLap,16-XiaomiBinhDinh,16,15,14,13,12,10,9,8,16.0.2,16-MiThaiNguyen,15-DienMayXiaomi",
     "timeLap":"20250426",
-    "linkHomeTVLap": "123456",
+    "linkHomeTVLap": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/app/Home_TV_vHomeTVDinhLap_v23_1900000000_MoDinhLap_Chiase.apk",
     "packageFake": "com.crackapp.hometv,com.dl.hakison,com.xiaomi.haki,com.xiaomi.hometv,com.xiaomi.mitv.voicecontrol",
     "linkHomeTVMod": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/app/HomeTV_vM.apk"
   },
