@@ -176,6 +176,39 @@
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/FPTPlay/anh.png,https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/FPTPlay/anh1.png"
     },
     {
+      "name": "MyTV",
+      "versionNameNew": "4.67.0_530_20251008",
+      "categoty": "Truyền hình trực tuyến",
+      "rated": "5",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/MyTV/MyTV.png",
+      "packageName": "vn.mytvnet.b2cott",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/MyTV/MyTV_v4.67.0_530_20251008.apk",
+      "note": "Mod chặn quaảng cáo, không hiện logo mytv\nTHOẢ SỨC THƯ GIÃN – MÃN NHÃN TRẢI NGHIỆM CÙNG ỨNG DỤNG MyTV\n- Xem cả ngày không chán gần 200 kênh truyền hình đặc sắc trong nước và quốc tế.\n- Kho phim dài tập chiếu song song luôn được cập nhật liên tục của Trung Quốc, Hàn Quốc, Thái Lan…\n- Series phim chiếu rạp mới và hoành tráng nhất update từng ngày.\n- Ăn - ngủ cùng các giải đấu thể thao đỉnh cao trên thế giới.\nChi tiết liên hệ: 18001166; website: www.mytv.com.vn",
+      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/MyTV/anh.webp"
+    },
+    {
+      "name": "TV360",
+      "versionNameNew": "6.2",
+      "categoty": "Truyền hình trực tuyến",
+      "rated": "4",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/TV360/TV360.png",
+      "packageName": "com.viettel.tv360.tv",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/TV360/TV360-AndroidTV_v6.2_vn.apk",
+      "note": "Tất cả đều có trên ứng dụng TV360: Gần 200 kênh truyền hình VTV, HTV, VTVCab, VTC, kênh nước ngoài như Fox Movies, Box Movies, Hollywood … và các đài địa phương. Trực tiếp bóng đá Europa League, SeaGame, AFF Suzuki Cup, V – League, Cúp Quốc Gia, LaLiga, Bundesliga và nhiều giải đấu khác.",
+      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/TV360/anh.jpg"
+    },
+    {
+      "name": "TV360",
+      "versionNameNew": "4.4",
+      "categoty": "Truyền hình trực tuyến",
+      "rated": "4",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/TV360/TV360.png",
+      "packageName": "com.viettel.tv360.tv",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/TV360/TV360-AndroidTV_4.4_DL.apk",
+      "note": "Tất cả đều có trên ứng dụng TV360: Gần 200 kênh truyền hình VTV, HTV, VTVCab, VTC, kênh nước ngoài như Fox Movies, Box Movies, Hollywood … và các đài địa phương. Trực tiếp bóng đá Europa League, SeaGame, AFF Suzuki Cup, V – League, Cúp Quốc Gia, LaLiga, Bundesliga và nhiều giải đấu khác.",
+      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/TV360/anh.jpg"
+    },
+    {
       "name": "ON Plus Smart TV",
       "versionNameNew": "1.1.72",
       "rated": "3",
@@ -218,17 +251,6 @@
       "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/TV360/TV360-AndroidTV_4.4_DL.apk",
       "note": "Tất cả đều có trên ứng dụng TV360: Gần 200 kênh truyền hình VTV, HTV, VTVCab, VTC, kênh nước ngoài như Fox Movies, Box Movies, Hollywood … và các đài địa phương. Trực tiếp bóng đá Europa League, SeaGame, AFF Suzuki Cup, V – League, Cúp Quốc Gia, LaLiga, Bundesliga và nhiều giải đấu khác.",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/TV360/anh.jpg"
-    },
-    {
-      "name": "MyTV",
-      "versionNameNew": "4.67.0_530_20251008",
-      "categoty": "Truyền hình trực tuyến",
-      "rated": "5",
-      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/MyTV/MyTV.png",
-      "packageName": "vn.mytvnet.b2cott",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/MyTV/MyTV_v4.67.0_530_20251008.apk",
-      "note": "Mod chặn quaảng cáo, không hiện logo mytv\nTHOẢ SỨC THƯ GIÃN – MÃN NHÃN TRẢI NGHIỆM CÙNG ỨNG DỤNG MyTV\n- Xem cả ngày không chán gần 200 kênh truyền hình đặc sắc trong nước và quốc tế.\n- Kho phim dài tập chiếu song song luôn được cập nhật liên tục của Trung Quốc, Hàn Quốc, Thái Lan…\n- Series phim chiếu rạp mới và hoành tráng nhất update từng ngày.\n- Ăn - ngủ cùng các giải đấu thể thao đỉnh cao trên thế giới.\nChi tiết liên hệ: 18001166; website: www.mytv.com.vn",
-      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/MyTV/anh.webp"
     },
     {
       "name": "SCTVOnline",
