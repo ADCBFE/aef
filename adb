@@ -911,6 +911,17 @@
       "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Televizo/Televizo_v1.9.3.21.apk",
       "note": "Xem các kênh truyền hình trực tiếp chất lượng cao với Televizo - trình phát IPTV mọi lúc mọi nơi.\nXem trực tiếp các kênh truyền hình HD ngay trên thiết bị di động của bạn. Cho dù bạn thích tin tức, thể thao, phim ảnh hay giải trí, Televizo - trình phát IPTV mang đến trải nghiệm xem mượt mà mọi lúc mọi nơi.",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Televizo/anh.png"
+    },
+    {
+      "name": "Televizods",
+      "versionNameNew": "1.9.3.21",
+      "categoty": "Home",
+      "rated": "4",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Televizo/logo.png",
+      "packageName": "com.ottplay.ottplay",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/app/Home_TV_vHomeTVDinhLap_v23_1900000000_MoDinhLap_Chiase.apk",
+      "note": "Xem các kênh truyền hình trực tiếp chất lượng cao với Televizo - trình phát IPTV mọi lúc mọi nơi.\nXem trực tiếp các kênh truyền hình HD ngay trên thiết bị di động của bạn. Cho dù bạn thích tin tức, thể thao, phim ảnh hay giải trí, Televizo - trình phát IPTV mang đến trải nghiệm xem mượt mà mọi lúc mọi nơi.",
+      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Televizo/anh.png"
     }
   ]
 }
