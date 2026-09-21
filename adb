@@ -928,9 +928,9 @@
       "versionNameNew": "1.0.7",
       "rated": "4",
       "categoty": "Truyền hình trực tuyến",
-      "logo": "https://gitlab.com/3875CE53/storeapp/-/raw/main/GetOut/logo.png",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/GetOut/logo.png",
       "packageName": "com.linor.vn.getout",
-      "linkDownload": "https://gitlab.com/3875CE53/storeapp/-/raw/main/GetOut/getout_v2.end.apk",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/GetOut/getout_v2.end.apk",
       "note": "Xem thể thao : Bóng đá, Bóng rổ, Bóng chuyền, Bia, Tennis... \nNguồn : bom.so/getout , AFTVnews : 9609311 \n Chịu ông nào admin họ cho dùng free rồi còn đi mod kiếm tiền. \n  -Thông báo:\n *Thời gian vừa qua, một số nhà bán hàng đã tải về, chỉnh sửa app, thay đổi tên app, thay đổi ảnh, thay đổi mã qr, stk ủng hộ quỹ trẻ em... Điều này làm cho mục đích ban đầu của dự án GetOut đã không còn ý nghĩa.\n *Vì vậy, từ ngày 06/04/2026, dự án này sẽ không còn được bảo trì và phát triển nữa.\n *Ứng dụng GetOut vẫn hoạt động cho đến khi tất cả các nguồn bị lỗi\n *Gửi lời tri ân sâu sắc đến những tấm lòng hảo tâm dành cho các em nhỏ!!!",
       "preview": "https://gitlab.com/3875CE53/storeapp/-/raw/main/GetOut/anh.png"
     }
