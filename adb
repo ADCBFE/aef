@@ -922,6 +922,17 @@
       "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/DLTivi/DLTivi_v16.0.3.apk",
       "note": "+ Sửa lỗi nguồn phát video một số list.Sửa lỗi nguồn phát video từ HomeTV khi nguồn bị thay đổi. DL Tivi là ứng dụng xem video, truyền hình yêu cầu sử dụng mạng dàng cho cả điện thoạt và TV. Tìm kiếm bằng giọng nói, Lưu lại hai đường link danh sách kênh, Tự động vào ngay kênh phát gần nhất lần trước.\n+ Giao diện dễ dùng : nhấn phím sang Trái hoặc phím sang Phải hiện danh sách  kênh, nhấn phím OK để mở Controller, Thay đổi tỉ lệ màn hình cho phù hợp, Điều khiển kênh bằng các phím số, Tính năng khởi động cùng thiết bị có thể không hoạt động trên thiết bị xiaomi.\nNhà phát triển: Đình Lập - Liên hệ: https://www.facebook.com/DinhlapD.Lp",
       "preview": "https://gitlab.com/3875CE53/storeapp/-/raw/main/DLTivi/anh.png"
+    },
+    {
+      "name": "Get Out",
+      "versionNameNew": "1.0.7",
+      "rated": "4",
+      "categoty": "Truyền hình trực tuyến",
+      "logo": "https://gitlab.com/3875CE53/storeapp/-/raw/main/GetOut/logo.png",
+      "packageName": "com.linor.vn.getout",
+      "linkDownload": "https://gitlab.com/3875CE53/storeapp/-/raw/main/GetOut/getout_v2.end.apk",
+      "note": "Xem thể thao : Bóng đá, Bóng rổ, Bóng chuyền, Bia, Tennis... \nNguồn : bom.so/getout , AFTVnews : 9609311 \n Chịu ông nào admin họ cho dùng free rồi còn đi mod kiếm tiền. \n  -Thông báo:\n *Thời gian vừa qua, một số nhà bán hàng đã tải về, chỉnh sửa app, thay đổi tên app, thay đổi ảnh, thay đổi mã qr, stk ủng hộ quỹ trẻ em... Điều này làm cho mục đích ban đầu của dự án GetOut đã không còn ý nghĩa.\n *Vì vậy, từ ngày 06/04/2026, dự án này sẽ không còn được bảo trì và phát triển nữa.\n *Ứng dụng GetOut vẫn hoạt động cho đến khi tất cả các nguồn bị lỗi\n *Gửi lời tri ân sâu sắc đến những tấm lòng hảo tâm dành cho các em nhỏ!!!",
+      "preview": "https://gitlab.com/3875CE53/storeapp/-/raw/main/GetOut/anh.png"
     }
   ]
 }
