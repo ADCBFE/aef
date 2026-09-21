@@ -917,7 +917,7 @@
       "versionNameNew": "16.0.3",
       "categoty": "Truyền hình trực tuyến",
       "rated": "5",
-      "logo": "https://gitlab.com/3875CE53/storeapp/-/raw/main/DLTivi/banner_DLTivi.png",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/DLTivi/banner_DLTivi.png",
       "packageName": "com.dinhlap.tivi",
       "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/DLTivi/DLTivi_v16.0.3.apk",
       "note": "+ Sửa lỗi nguồn phát video một số list.Sửa lỗi nguồn phát video từ HomeTV khi nguồn bị thay đổi. DL Tivi là ứng dụng xem video, truyền hình yêu cầu sử dụng mạng dàng cho cả điện thoạt và TV. Tìm kiếm bằng giọng nói, Lưu lại hai đường link danh sách kênh, Tự động vào ngay kênh phát gần nhất lần trước.\n+ Giao diện dễ dùng : nhấn phím sang Trái hoặc phím sang Phải hiện danh sách  kênh, nhấn phím OK để mở Controller, Thay đổi tỉ lệ màn hình cho phù hợp, Điều khiển kênh bằng các phím số, Tính năng khởi động cùng thiết bị có thể không hoạt động trên thiết bị xiaomi.\nNhà phát triển: Đình Lập - Liên hệ: https://www.facebook.com/DinhlapD.Lp",
