@@ -66,17 +66,6 @@
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/BilibiliTV/anh.jpg"
     },
     {
-      "name": "⚽ SportsTV",
-      "versionNameNew": "5.2.3",
-      "categoty": "Thể thao",
-      "rated": "5",
-      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/SportsTV/ic_SportsTV.png",
-      "packageName": "com.sports.tv",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/SportsTV/SportsTV_5.2.3.apk",
-      "note": "Sport TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí trên Android TV Box\nĐể sử dụng được hãy thêm nguồn vào nhé\nLuôn mới nhất tại đây: bom.so/sportstv",
-      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/SportsTV/anh.jpg"
-    },
-    {
       "name": "Cốc cốc TV Lite",
       "versionNameNew": "1.6",
       "categoty": "Trình duyệt web",
@@ -418,15 +407,15 @@
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Stube/anh.png"
     },
     {
-      "name": "YouTube Kids TV",
-      "versionNameNew": "1.12.02",
-      "rated": "4",
+      "name": "⚽ SportsTV",
+      "versionNameNew": "5.2.4",
       "categoty": "Giải trí",
-      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/YoutubeKids/Youtubetvkids.png",
-      "packageName": "com.google.android.youtube.tvkids",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/YoutubeKids/Youtubetvkids.apk",
-      "note": "Trải nghiệm xem video trực tuyến an toàn hơn cho trẻ\nChúng tôi nỗ lực rất nhiều để giữ cho các video trên YouTube Kids luôn có nội dung phù hợp với gia đình. Để bảo vệ những người dùng nhỏ tuổi nhất trên mạng, chúng tôi kết hợp các bộ lọc tự động do nhiều nhóm kỹ sư thiết kế, quy trình xem xét thủ công và ý kiến phản hồi từ chính các bậc cha mẹ. Tuy nhiên, không có hệ thống nào là hoàn hảo và các video không phù hợp có thể vẫn lọt qua hệ thống của chúng tôi.\n- Nếu bị lỗi mạng(thử lại) thì hãy vào Cài đặt/Ứng dụng/Tìm phần quyền Internet và cấp cho youtube để sử dụng.",
-      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/YoutubeKids/anh.jpg,https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/YoutubeKids/anh1.jpg"
+      "rated": "5",
+      "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/SportsTV/ic_SportsTV.png",
+      "packageName": "com.sports.tv",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/SportsTV/SportsTV_v5.2.4.apk",
+      "note": "Sport TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí trên Android TV Box\nĐể sử dụng được hãy thêm nguồn vào nhé\nLuôn mới nhất tại đây: bom.so/sportstv",
+      "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/SportsTV/anh.jpg"
     },
     {
       "name": "Nimo TV",
