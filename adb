@@ -320,12 +320,12 @@
     },
     {
       "name": "TizenTube",
-      "versionNameNew": "2.0.2",
+      "versionNameNew": "2.0.3",
       "rated": "5",
       "categoty": "Giải trí",
       "logo": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Youtube/TizenTube.png",
       "packageName": "io.gh.reisxd.tizentube.cobalt",
-      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Youtube/TizenTube_v2.0.2_mod1.0.8.apk",
+      "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Youtube/TizenTube_v2.0.3_mod.apk",
       "note": "Nếu cập nhật thất bại vui lòng gỡ ra trước và cài đặt lại !\nTizenTube Android 7, YouTube Leanback UI.\nAdblock, SponsorBlock, DeArrow.\nDisable shorts and more...",
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Youtube/anh.webp,https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Youtube/anh1.jpg"
     },
