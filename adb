@@ -308,7 +308,7 @@
       "preview": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Youtube/anh.webp,https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/Youtube/anh1.jpg"
     },
     {
-      "name": "TizenTube",
+      "name": "TizenTube A5A6",
       "versionNameNew": "1.0.3",
       "categoty": "Giải trí",
       "rated": "3",
