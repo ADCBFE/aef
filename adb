@@ -4,7 +4,7 @@
     "versionNameNew": "16.0.5",
     "linkDownload": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/app/DLStore_v16.0.5.apk",
     "manufacturer": "",
-    "checkDate": "3",
+    "checkDate": "2",
     "linkBecause": "Một số thành phần vì lợi ích cá nhân bán sản phẩm mod, chỉnh sửa logo, tên ứng dụng biến tấu thành của hẳn.\nVui lòng mai vào tải lại là được !",
     "note": "",
     "ad": "https://raw.githubusercontent.com/ADCBFE/aef/refs/heads/main/ad/vtv6.png",
